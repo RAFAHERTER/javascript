@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variáveis e Tipos Primitivos</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            font-family: Arial, Helvetica;
+            line-height: 1.5em;
+            background-color: rgb(187, 214, 254);
+        }
+        main{
+            background-color: white;
+            width: 70%;
+            margin: 0 auto;
+            padding: 10px 20px 10px 20px;
+        }
+        h1, h2{
+            padding: 15px;
+            text-align: center;
+        }
+        ul{
+            padding: 10px 0px 10px 20px;
+        }
+    </style>
+</head>
+<body>
+    <main>
+    <h1>Variáveis e Tipos Primitivos</h1>
+    <p>
+
+        Em programação, uma variável é um espaço na memória do computador que armazena dados que podem ser alterados durante a execução de um programa. Cada variável possui um nome único e um tipo de dado associado, que define o tipo de valor que ela pode armazenar.
+        <br><br>
+        Na aula anterior não tinha onde eu guardar a opção que foi clicada pelo usuário, se ele tinha clicado em "Ok" ou "Cancelar", então eu não tinha como saber qual foi a opção escolhida. Para resolver isso, podemos usar variáveis.
+        <br><br>
+        Uma outra coisa, quando utilizamos o window.prompt() para receber dados do usuário, o valor digitado é sempre retornado como uma string, mesmo que seja um número. Por isso, precisamos converter esse valor para o tipo de dado correto antes de utilizá-lo em cálculos ou comparações.
+
+    </p>
+    <p>
+        Nós podemos definir uma variável em JavaScript utilizando as palavras-chave var, let ou const. A diferença entre elas está relacionada ao escopo e à mutabilidade da variável.
+        <br><br>
+        Além disso, o nome de cada variável, cada identificador, deve seguir algumas regras , como não começar com números, não conter espaços e não utilizar palavras reservadas da linguagem, ou seja, comandos que já possuem um significado especial na linguagem, como if, else, for, while, function, return, entre outros.
+    </p>
+    <p>
+        Existem 3 formas de delimitar uma string em JavaScript: usando aspas <strong>simples</strong> (' '), aspas <strong>duplas</strong> (" ") ou <strong>crases</strong> (` `). As crases permitem a interpolação de variáveis e expressões dentro da string, utilizando a sintaxe ${expressão}.
+    </p>
+    
+
+    <h2>Data Types</h2>
+    <p>
+        No JS, não há diferencia entre números inteiros e números de ponto flutuante, todos são do tipo <strong>Number</strong>. Segue abaixo alguns exemplos:
+        <ul>
+            <li><strong>Boolean - </strong> (true ou false);</li>
+            <li><strong>String - </strong> (sequência de caracteres);</li>
+            <li><strong>Null - </strong> (ausência intencional de valor);</li>
+            <li><strong>Undefined - </strong> (variável declarada, mas não inicializada);</li>
+            <li><strong>Infinity - </strong>Representar o infinito positivo.</li>
+            <li><strong>NaN - </strong> (Not a Number)</li>
+            <li><strong>Symbol - </strong>Representar identificadores únicos.</li>
+            <li><strong>BigInt - </strong>Representar números inteiros grandes que excedem o limite do tipo Number.</li>
+            <li><strong>Object - </strong>Representar entidades do mundo real, como pessoas, carros, produtos, entre outros;</li>
+            <li><strong>Array - </strong>Representar listas, tabelas e outras estruturas de dados. Representar coleções de valores.</li>
+            <li><strong>Function - </strong>Blocos de código reutilizáveis que podem ser chamados em diferentes partes do programa.</li>
+            <li><strong>typeof - </strong>Operador que retorna o tipo de dado de uma variável. Escreva: 'typeof variavel' que ele retornará o tipo de dado da variável.</li>
+        </ul>
+
+    </p>
+    </main>
+</body>
+</html>
