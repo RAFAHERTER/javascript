@@ -1,0 +1,9 @@
+Aula 3 de JavaScript - Dando os primeiros passos
+
+1. No vídeo é abordado algumas temáticas para não desistir de programar e não ser o tipo de pessoa que desmerece os outros por acreditar em crenças limitantes.
+
+2. 
+    Instalando os softwares.
+    - Google Chrome
+    - Vs Code
+    - node.js 
