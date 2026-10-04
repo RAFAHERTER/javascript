@@ -1,0 +1,20 @@
+Aula 0 de Js.
+
+APRENDENDO COM GUSTAVO GUANABARA
+
+1. Primeiros passos com javascript
+
+    O que JS é capaz de fazer??
+    Dicas de aprendizagem
+    JS versus ECMAScript
+    Requisitos de software
+    Primeiros scripts em JS
+
+2. O que eu devo faze??
+
+    -Não pule vídeo
+    -Anote TUDO (Eu ja fazendo isso antes mesmo dele falar (Aprendi com ele kkkkk))
+    -DUAS TELAS (não é obrigatório obviamente)
+    -Pratique bastante (Use exercícios gerados por IA)
+    -Compartilhe conhecimento
+    
