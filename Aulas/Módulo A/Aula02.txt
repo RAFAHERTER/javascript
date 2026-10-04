@@ -1,5 +1,14 @@
-Aula 2 de JavaScript
+Aula 2 de JavaScript -  A EVOLUÇÃO DO JAVASCRIPT
+ - JavaScript e JAVA são a mesma coisa??
 
-1. 
+1. Como chegamos até aqui??
+    - 1970 Guerra tenológica entre USA e U Soviética (Guerra Fria)
+    - Decretação da DARPA (Pesquisar/ Desenvolver tecnologias militares)
+        - Criar redes entre os centros de pesquisas para fins de preservar dados/ arquivos mesmo que houvesse perda da infraestrutura física
+        - Criação da ARPANET - (Sofreu várias mudanças/atualizações que resultou na Internet)
+        - 1993 Criação da HTML, TCP IP, e WWW por Tim Berners Lee.
+        - O nome JavaScript surgiu a partir de uma linguagem bem famosa na época (Java) Porém colocaram script na frente kkkkkkk
+        - Node.js é uma maquina que roda javascript fora do navegador
+        - EcmaScript é uma VERSÃO PADRONIZADA do JavaScript
 
 
