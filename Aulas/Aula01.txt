@@ -1,0 +1,29 @@
+Aula 01 de JS
+
+1. O que JavaScript é capaz de fazer??
+
+    JavaScript faz praticamente TUDO!!
+
+2. Conceito de Cliente X Servidor
+
+    - Neste exato momento estou coletando dados do servidor do YouTube e eu sou o cliente
+
+    - E como que eu faço para acessar um servidor??
+        Usando um navegador, como o Google Chrome, Microsoft Edge
+
+    - E através desses navegadores é utilizado o acesso à internet e ao servidor no qual aquilo que o "Cliente" está procurando. Que, na maioria das vezes é um documento em HTML5 e CSS3... E o computador do usuário processa o código e mostra somente o resultdado. OU SEJA o SITE!
+
+    - Basicamente o que o cliente "quer" é um bando de arquivos que são enviados pelos servidores.
+
+    - Existem tecnologias para clientes e existem tecnologias para servidores. VULGO FRONT-END e BACK-END
+
+    - Nesse curso vamos ver somente JS para client-side, ou seja, somente para FRONT-END (Já Sabemos que ele funciona também no Back-END)
+
+3. Três tecnologias para podermos falar de JS
+
+    - Trabalhando com o conteúdo dos WebSites (HTML5)
+    - Trabalhando com o Design dos WebSites (CSS3)
+    - Trabalhando com a engenharia e interações dos WebSites (JavaScript)
+
+Obs: Uma infinidades de sites utiliza essa LINGUAGEM de programação. BORA APRENDER PORRA!!
+
